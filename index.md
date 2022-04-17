@@ -1,5 +1,4 @@
-## Hi! I'm Demetrios.
-I am a NY-based agile UX designer, service designer, and strategist with experience in education technology and telecommunications. I solve problems and forge connections with stake-holders, customers, and cross-functional teams.
+<h2>I'm a NY-based agile UX designer, service designer, and strategist with experience in education technology and telecommunications.</h2>
 
 I’ve served on scrum teams as well as overseen strategic projects, providing low- and high-fidelity UI design as well as performing targeted qualitative and quantitative studies, primarily in education technology and telecommunications.
 
